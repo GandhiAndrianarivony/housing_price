@@ -46,6 +46,7 @@ for NN choose the correct optimizer and loss function
 
 # Training
 1. epoch
+2. Fine tuning
 
 # Inference
 1. Use test set
